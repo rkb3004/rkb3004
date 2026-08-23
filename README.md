@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rkb1930">
-    <img src="https://img.shields.io/github/followers/rkb1930?style=for-the-badge&logo=github&label=FOLLOW&color=00FF9C&labelColor=0D1117"/>
+  <a href="https://github.com/rkb3004">
+    <img src="https://img.shields.io/github/followers/rkb3004?style=for-the-badge&logo=github&label=FOLLOW&color=00FF9C&labelColor=0D1117"/>
   </a>
   <a href="https://linkedin.com/in/rohankumarbehera">
     <img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117"/>
@@ -238,7 +238,7 @@ Some stay at `3:17 AM`.
 </table>
 
 <p align="center">
-  <a href="https://github.com/rkb1930?tab=repositories">
+  <a href="https://github.com/rkb3004?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00FF9C?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117"/>
   </a>
 </p>
