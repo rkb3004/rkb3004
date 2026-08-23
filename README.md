@@ -8,7 +8,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=800&lines=HEY%2C+I'M+ROHAN+%F0%9F%91%8B;BACKEND+%7C+DEVOPS+%7C+CLOUD;I+BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+DEPLOY;WELCOME+TO+MY+LITTLE+CORNER+OF+THE+INTERNET" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=800&lines=HEY%2C+I'M+ROHAN+%F0%9F%91%8B;BACKEND+%7C+DEVOPS+%7C+CLOUD;I+BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+DEPLOY;WELCOME++CORNER+OF+THE+INTERNET" />
 </h1>
 
 <p align="center">
